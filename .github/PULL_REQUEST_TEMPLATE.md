@@ -4,4 +4,4 @@
 
 ## 👀 Is this work done yet?
 
-<!-- Please mark non complete work as a draft PR!  -->
+<!-- Please mark non complete work as a draft pull request!  -->
